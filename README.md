@@ -11,7 +11,7 @@
 
 🎓 First-year **Quantum Engineering** student at the University of New South Wales  
 💻 Passionate about **programming, math, and problem solving**  
-🚀 Exploring **Python, game development with Unity, and quantitative finance**  
+🚀 Exploring **Python and Javascript 
 🌏 Interested in remote tech opportunities that allow me to work and travel  
 
 ---
